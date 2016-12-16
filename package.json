@@ -1,0 +1,29 @@
+{
+  "name": "angular1-seed",
+  "version": "1.0.0",
+  "description": "The seed for angular1 projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-raj/angular1-seed.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "bootstrap"
+  ],
+  "author": "Abhishek Raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhishek-raj/angular1-seed/issues"
+  },
+  "homepage": "https://github.com/abhishek-raj/angular1-seed#readme",
+  "dependencies": {
+    "angular": "^1.6.0",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7"
+  }
+}
